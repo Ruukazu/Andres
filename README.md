@@ -37,7 +37,7 @@
 <samp>
 <h2 align="center">About Me</h2>
  <p align="center">
- <p> <h1>
+ <p> <h2>
     Data analyst and Full Stack developer with background in software analysis, mobile application design, database 
   administration, cleaning and use of databases using AppScript and datastudio as well as different process 
 management developmentsthat helped me work as a team, analyze massive data, understand different work 
@@ -49,7 +49,7 @@ Node, GitHub, Excel, SQL, PowerBI, Sequelize. With the ability to communicate na
 outstanding analytical skills; ability to work as a team and under pressure; leadership and initiative. English Level: 
 Intermediate English B2.
 
-  </h1>
+  </h2>
   </p>
   </p>
   <p align="center">
