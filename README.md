@@ -60,7 +60,7 @@ Intermediate English B2.
   <summary>💻 My Projects</summary>
   <div>
   <samp>
-    <a href="https://github.com/Ruukazu/back" target="_blank">Backend Final Project at Henry</a>
+    <a href="https://github.com/pfDevWorks/back" target="_blank">Backend Final Project at Henry</a>
      <br/>
     <a href="https://github.com/Ruukazu/PIVideoH" target="_blank">FrontEnd Individual Project at Henry</a>
     <br/>
@@ -69,12 +69,19 @@ Intermediate English B2.
   
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Technologys</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-          </a>
+    <ul>
+      <li>Javascript</li>
+      <li>Python</li>
+      <li>R</li>
+      <li>APPScript</li>
+      <li>VBA</li>
+      <li>SQL</li>
+      <li>PowerBI</li>
+      <li>Qilkview</li>
+      <li>html</li>
+    </ul>
        </p>
      <br>
      </samp>
@@ -82,48 +89,15 @@ Intermediate English B2.
 </details>
 
 <details>
-  <summary>📈 Latest Activity Graph</summary>
+  <summary>📈 Latest Project EasySchool</summary>
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <a href="https://front-kappa-one.vercel.app/">
 <br/>
   </samp>
   </details>
-  
-<details>
-  <summary>🌏 global</summary>
-  <br/>
-  <details open>
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img align="center" height="50"
-        alt="for the badge"/></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/static/favicon.png" img align="center" height="50"
-        alt="badgen"/></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
-  </div>
-</details> 
-<details open>
-  <summary>😒 random stuff</summary>
-<div>
-<samp>
-<h2 align="center"> just an ascii art of me holding an umbrella </h2>
-</samp>
-</div>
 
-```js
-/*
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -170,11 +144,7 @@ Intermediate English B2.
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-*/
-```
-</details>
-<br/>
-</details> 
+
 
 -----
 Credits: https://github.com/Ruukazu
