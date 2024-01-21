@@ -37,7 +37,7 @@
 <samp>
 <h2 align="center">About Me</h2>
  <p align="center">
- <h2>
+ <p>
     Data analyst and Full Stack developer with background in software analysis, mobile application design, database 
   administration, cleaning and use of databases using AppScript and datastudio as well as different process 
 management developmentsthat helped me work as a team, analyze massive data, understand different work 
@@ -49,39 +49,22 @@ Node, GitHub, Excel, SQL, PowerBI, Sequelize. With the ability to communicate na
 outstanding analytical skills; ability to work as a team and under pressure; leadership and initiative. English Level: 
 Intermediate English B2.
 
-  </h2>
-
   </p>
-  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
+
   </p>
  </samp>
 </div>
 </details>
   
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 My Projects</summary>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
+    <a href="https://github.com/Ruukazu/back" target="_blank">Backend Final Project at Henry</a>
+    <a href="https://github.com/Ruukazu/PIVideoH" target="_blank">FrontEnd Individual Project at Henry</a>
+    <a href="https://github.com/Ruukazu?tab=repositories"_blank">My repos</a>
       <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
+  
 </details>
     <details open>
   <summary><h3>stasistic</h3></summary>
