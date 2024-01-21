@@ -37,7 +37,7 @@
 <samp>
 <h2 align="center">About Me</h2>
  <p align="center">
- <p> <h2>
+ <h2>
     Data analyst and Full Stack developer with background in software analysis, mobile application design, database 
   administration, cleaning and use of databases using AppScript and datastudio as well as different process 
 management developmentsthat helped me work as a team, analyze massive data, understand different work 
@@ -50,7 +50,7 @@ outstanding analytical skills; ability to work as a team and under pressure; lea
 Intermediate English B2.
 
   </h2>
-  </p>
+
   </p>
   <p align="center">
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
