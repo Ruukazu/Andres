@@ -35,14 +35,21 @@
   <summary>🧮 about</summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
+<h2 align="center">About Me</h2>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
-     alt="website" /></a>
+  <p>
+    Data analyst and Full Stack developer with background in software analysis, mobile application design, database 
+  administration, cleaning and use of databases using AppScript and datastudio as well as different process 
+management developmentsthat helped me work as a team, analyze massive data, understand different work 
+environments, participate in different projects, both in programming structure and data processing, and adapt to 
+different work cultures to achieve the desired objectives. ANDspecialized in Back End, Knowledge in agile 
+methodologies, GIT, data structure, algorithms, CSS frameworks, data structure, data collection/purification and 
+analysis. Experience in Front End and Back End development / data architecture, Data Science with Python, JS, React, 
+Node, GitHub, Excel, SQL, PowerBI, Sequelize. With the ability to communicate naturally in any work environment; 
+outstanding analytical skills; ability to work as a team and under pressure; leadership and initiative. English Level: 
+Intermediate English B2.
+
+  </p>
   </p>
   <p align="center">
   <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
