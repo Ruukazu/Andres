@@ -68,8 +68,8 @@ Intermediate English B2.
       <br/>
   
 </details>
-    <details open>
-  <summary><h3>Technologys</h3></summary>
+    <details>
+  <summary>Technologys</summary>
         <p align="center">
     <ul>
       <li>Javascript</li>
