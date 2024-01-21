@@ -37,7 +37,7 @@
 <samp>
 <h2 align="center">About Me</h2>
  <p align="center">
-  <p>
+  <h1
     Data analyst and Full Stack developer with background in software analysis, mobile application design, database 
   administration, cleaning and use of databases using AppScript and datastudio as well as different process 
 management developmentsthat helped me work as a team, analyze massive data, understand different work 
@@ -49,24 +49,13 @@ Node, GitHub, Excel, SQL, PowerBI, Sequelize. With the ability to communicate na
 outstanding analytical skills; ability to work as a team and under pressure; leadership and initiative. English Level: 
 Intermediate English B2.
 
-  </p>
+  >
   </p>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-     alt="CodeFactor" /></a>
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
      src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
   </p>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/1999AZZAR"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
  </samp>
 </div>
 </details>
